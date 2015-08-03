@@ -1,10 +1,5 @@
 import random
 
-kamien = 1
-nozyce = 2
-papier = 3
-
-
 
 dzialaj = True
 
